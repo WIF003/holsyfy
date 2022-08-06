@@ -134,16 +134,4 @@ mkdir 48
 mkdir 49
 mkdir 50
 goto bucle
-::No se que poner pero ponle algo
-msg * holaaaaaaaaaaaaaa
-msg * jajajajajaja
-msg * que?
-msg * quieres salir?
-msg * bueno, solo te queda suplicar
-msg * jajajjajajsjajsjajdjjasjjj
-start https://elgoog.im/t-rex/
-msg * juega algo para desestresarte
-dir
-timeout /t 240 /nobreak >nul
-start explorer.exe
 exit
